@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tech-PomodoroTimer/static/css/main.0fb8e84e.css",
-    "main.js": "/Tech-PomodoroTimer/static/js/main.793c4a3e.js",
-    "static/js/496.73c5d011.chunk.js": "/Tech-PomodoroTimer/static/js/496.73c5d011.chunk.js",
-    "index.html": "/Tech-PomodoroTimer/index.html",
-    "main.0fb8e84e.css.map": "/Tech-PomodoroTimer/static/css/main.0fb8e84e.css.map",
-    "main.793c4a3e.js.map": "/Tech-PomodoroTimer/static/js/main.793c4a3e.js.map",
-    "496.73c5d011.chunk.js.map": "/Tech-PomodoroTimer/static/js/496.73c5d011.chunk.js.map"
+    "main.css": "/testingDeploy/static/css/main.0fb8e84e.css",
+    "main.js": "/testingDeploy/static/js/main.881020fb.js",
+    "static/js/496.73c5d011.chunk.js": "/testingDeploy/static/js/496.73c5d011.chunk.js",
+    "index.html": "/testingDeploy/index.html",
+    "main.0fb8e84e.css.map": "/testingDeploy/static/css/main.0fb8e84e.css.map",
+    "main.881020fb.js.map": "/testingDeploy/static/js/main.881020fb.js.map",
+    "496.73c5d011.chunk.js.map": "/testingDeploy/static/js/496.73c5d011.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fb8e84e.css",
-    "static/js/main.793c4a3e.js"
+    "static/js/main.881020fb.js"
   ]
 }
